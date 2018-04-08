@@ -14,3 +14,5 @@ var interviewOfProgrammer = interviewQuestion('programmer');
 interviewOfProgrammer('Ksena');
 var interviewOfCoach = interviewQuestion('coach');
 interviewOfCoach('Max');
+
+interviewQuestion('programmer');
